@@ -7,3 +7,6 @@ body {
 img{
   border: solid 3px #000;
 }
+ul{
+	list-style: none;
+}
